@@ -1,1 +1,1 @@
-# sudoko_solver
+# suduko_solver
